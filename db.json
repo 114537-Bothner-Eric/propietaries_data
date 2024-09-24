@@ -1,0 +1,78 @@
+{
+    "propietaries": [
+        {
+            "id": 1,
+            "name": "John",
+            "lastname": "Doe",
+            "doc_number": "12345678",
+            "plots_ids": [
+                101,
+                102,
+                103
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Jane",
+            "lastname": "Smith",
+            "doc_number": "23456789",
+            "plots_ids": [
+                104,
+                105
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Michael",
+            "lastname": "Johnson",
+            "doc_number": "34567890",
+            "plots_ids": [
+                106,
+                107,
+                108,
+                109
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Emily",
+            "lastname": "Davis",
+            "doc_number": "45678901",
+            "plots_ids": [
+                110,
+                111
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Chris",
+            "lastname": "Miller",
+            "doc_number": "56789012",
+            "plots_ids": [
+                112,
+                113,
+                114
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Sarah",
+            "lastname": "Wilson",
+            "doc_number": "67890123",
+            "plots_ids": [
+                115
+            ]
+        },
+        {
+            "id": 7,
+            "name": "David",
+            "lastname": "Brown",
+            "doc_number": "78901234",
+            "plots_ids": [
+                116,
+                117,
+                118
+            ]
+        }
+    ]
+}
