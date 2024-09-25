@@ -5,18 +5,20 @@
             "name": "John",
             "lastname": "Doe",
             "doc_number": "12345678",
-            "plots_ids": [
+            "phone_number": "12345678",
+            "plots": [
                 101,
                 102,
                 103
-            ]
+            ],
         },
         {
             "id": 2,
             "name": "Jane",
             "lastname": "Smith",
             "doc_number": "23456789",
-            "plots_ids": [
+            "phone_number": "23456789",
+            "plots": [
                 104,
                 105
             ]
@@ -26,7 +28,8 @@
             "name": "Michael",
             "lastname": "Johnson",
             "doc_number": "34567890",
-            "plots_ids": [
+            "phone_number": "34567890",
+            "plots": [
                 106,
                 107,
                 108,
@@ -38,7 +41,8 @@
             "name": "Emily",
             "lastname": "Davis",
             "doc_number": "45678901",
-            "plots_ids": [
+            "phone_number": "45678901",
+            "plots": [
                 110,
                 111
             ]
@@ -48,7 +52,8 @@
             "name": "Chris",
             "lastname": "Miller",
             "doc_number": "56789012",
-            "plots_ids": [
+            "phone_number": "56789012",
+            "plots": [
                 112,
                 113,
                 114
@@ -59,7 +64,7 @@
             "name": "Sarah",
             "lastname": "Wilson",
             "doc_number": "67890123",
-            "plots_ids": [
+            "plots": [
                 115
             ]
         },
@@ -68,7 +73,8 @@
             "name": "David",
             "lastname": "Brown",
             "doc_number": "78901234",
-            "plots_ids": [
+            "phone_number": "78901234",
+            "plots": [
                 116,
                 117,
                 118
