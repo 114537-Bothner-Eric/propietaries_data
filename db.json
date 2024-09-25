@@ -2,8 +2,8 @@
     "propietaries": [
         {
             "id": 1,
-            "name": "John",
-            "lastname": "Doe",
+            "name": "Juan",
+            "lastname": "Pérez",
             "doc_number": "12345678",
             "phone_number": "12345678",
             "plots": [
@@ -14,8 +14,8 @@
         },
         {
             "id": 2,
-            "name": "Jane",
-            "lastname": "Smith",
+            "name": "María",
+            "lastname": "González",
             "doc_number": "23456789",
             "phone_number": "23456789",
             "plots": [
@@ -25,8 +25,8 @@
         },
         {
             "id": 3,
-            "name": "Michael",
-            "lastname": "Johnson",
+            "name": "Miguel",
+            "lastname": "Rodríguez",
             "doc_number": "34567890",
             "phone_number": "34567890",
             "plots": [
@@ -38,8 +38,8 @@
         },
         {
             "id": 4,
-            "name": "Emily",
-            "lastname": "Davis",
+            "name": "Lucía",
+            "lastname": "López",
             "doc_number": "45678901",
             "phone_number": "45678901",
             "plots": [
@@ -49,8 +49,8 @@
         },
         {
             "id": 5,
-            "name": "Chris",
-            "lastname": "Miller",
+            "name": "Carlos",
+            "lastname": "Müller",
             "doc_number": "56789012",
             "phone_number": "56789012",
             "plots": [
@@ -61,8 +61,8 @@
         },
         {
             "id": 6,
-            "name": "Sarah",
-            "lastname": "Wilson",
+            "name": "Sofía",
+            "lastname": "Fernández",
             "doc_number": "67890123",
             "plots": [
                 115
@@ -70,8 +70,8 @@
         },
         {
             "id": 7,
-            "name": "David",
-            "lastname": "Brown",
+            "name": "Diego",
+            "lastname": "Martínez",
             "doc_number": "78901234",
             "phone_number": "78901234",
             "plots": [
