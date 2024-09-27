@@ -3,7 +3,7 @@
         {
             "id": 1,
             "name": "Juan",
-            "lastname": "Pérez",
+            "last_name": "Pérez",
             "doc_number": "12345678",
             "phone_number": "12345678",
             "plots": [
@@ -15,7 +15,7 @@
         {
             "id": 2,
             "name": "María",
-            "lastname": "González",
+            "last_name": "González",
             "doc_number": "23456789",
             "phone_number": "23456789",
             "plots": [
@@ -26,7 +26,7 @@
         {
             "id": 3,
             "name": "Miguel",
-            "lastname": "Rodríguez",
+            "last_name": "Rodríguez",
             "doc_number": "34567890",
             "phone_number": "34567890",
             "plots": [
@@ -39,7 +39,7 @@
         {
             "id": 4,
             "name": "Lucía",
-            "lastname": "López",
+            "last_name": "López",
             "doc_number": "45678901",
             "phone_number": "45678901",
             "plots": [
@@ -50,7 +50,7 @@
         {
             "id": 5,
             "name": "Carlos",
-            "lastname": "Müller",
+            "last_name": "Müller",
             "doc_number": "56789012",
             "phone_number": "56789012",
             "plots": [
@@ -62,7 +62,7 @@
         {
             "id": 6,
             "name": "Sofía",
-            "lastname": "Fernández",
+            "last_name": "Fernández",
             "doc_number": "67890123",
             "plots": [
                 115
@@ -71,7 +71,7 @@
         {
             "id": 7,
             "name": "Diego",
-            "lastname": "Martínez",
+            "last_name": "Martínez",
             "doc_number": "78901234",
             "phone_number": "78901234",
             "plots": [
@@ -85,70 +85,70 @@
         {
             "id": 1,
             "name": "Carlos",
-            "lastname": "Gómez",
+            "last_name": "Gómez",
             "docnumber": "32123456",
             "phone_number": "+54 9 11 2345 6789"
         },
         {
             "id": 2,
             "name": "María",
-            "lastname": "Pérez",
+            "last_name": "Pérez",
             "docnumber": "34123457",
             "phone_number": "+54 9 11 2345 6790"
         },
         {
             "id": 3,
             "name": "Jorge",
-            "lastname": "Fernández",
+            "last_name": "Fernández",
             "docnumber": "36123458",
             "phone_number": "+54 9 11 2345 6791"
         },
         {
             "id": 4,
             "name": "Lucía",
-            "lastname": "Rodríguez",
+            "last_name": "Rodríguez",
             "docnumber": "38123459",
             "phone_number": "+54 9 11 2345 6792"
         },
         {
             "id": 5,
             "name": "Martín",
-            "lastname": "López",
+            "last_name": "López",
             "docnumber": "40123460",
             "phone_number": "+54 9 11 2345 6793"
         },
         {
             "id": 6,
             "name": "Ana",
-            "lastname": "González",
+            "last_name": "González",
             "docnumber": "42123461",
             "phone_number": "+54 9 11 2345 6794"
         },
         {
             "id": 7,
             "name": "Federico",
-            "lastname": "Sosa",
+            "last_name": "Sosa",
             "docnumber": "44123462",
             "phone_number": "+54 9 11 2345 6795"
         },
         {
             "id": 8,
             "name": "Sofía",
-            "lastname": "Martínez",
+            "last_name": "Martínez",
             "docnumber": "46123463",
             "phone_number": "+54 9 11 2345 6796"
         },
         {
             "id": 9,
             "name": "Leandro",
-            "lastname": "Ruiz",
+            "last_name": "Ruiz",
             "docnumber": "48123464",
             "phone_number": "+54 9 11 2345 6797"
         },
         {
             "id": 10,
             "name": "Valentina",
-            "lastname": "Díaz",
+            "last_name": "Díaz",
             "docnumber": "50123465",
             "phone_number": "+54 9 11 2345 6798"
         }
@@ -157,70 +157,70 @@
         {
             "id": 1,
             "name": "Santiago",
-            "lastname": "Figueroa",
+            "last_name": "Figueroa",
             "docnumber": "32123401",
             "phone_number": "+54 9 11 5678 9012"
         },
         {
             "id": 2,
             "name": "Camila",
-            "lastname": "Blanco",
+            "last_name": "Blanco",
             "docnumber": "34123402",
             "phone_number": "+54 9 11 5678 9013"
         },
         {
             "id": 3,
             "name": "Alejandro",
-            "lastname": "Castro",
+            "last_name": "Castro",
             "docnumber": "36123403",
             "phone_number": "+54 9 11 5678 9014"
         },
         {
             "id": 4,
             "name": "Florencia",
-            "lastname": "Acosta",
+            "last_name": "Acosta",
             "docnumber": "38123404",
             "phone_number": "+54 9 11 5678 9015"
         },
         {
             "id": 5,
             "name": "Maximiliano",
-            "lastname": "Molina",
+            "last_name": "Molina",
             "docnumber": "40123405",
             "phone_number": "+54 9 11 5678 9016"
         },
         {
             "id": 6,
             "name": "Julieta",
-            "lastname": "Silva",
+            "last_name": "Silva",
             "docnumber": "42123406",
             "phone_number": "+54 9 11 5678 9017"
         },
         {
             "id": 7,
             "name": "Agustín",
-            "lastname": "Medina",
+            "last_name": "Medina",
             "docnumber": "44123407",
             "phone_number": "+54 9 11 5678 9018"
         },
         {
             "id": 8,
             "name": "Paula",
-            "lastname": "Herrera",
+            "last_name": "Herrera",
             "docnumber": "46123408",
             "phone_number": "+54 9 11 5678 9019"
         },
         {
             "id": 9,
             "name": "Nicolás",
-            "lastname": "Ortiz",
+            "last_name": "Ortiz",
             "docnumber": "48123409",
             "phone_number": "+54 9 11 5678 9020"
         },
         {
             "id": 10,
             "name": "Laura",
-            "lastname": "Ramírez",
+            "last_name": "Ramírez",
             "docnumber": "50123410",
             "phone_number": "+54 9 11 5678 9021"
         }
