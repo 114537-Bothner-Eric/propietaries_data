@@ -80,5 +80,149 @@
                 118
             ]
         }
+    ],
+    "employees": [
+        {
+            "id": 1,
+            "name": "Carlos",
+            "lastname": "Gómez",
+            "docnumber": "32123456",
+            "phone_number": "+54 9 11 2345 6789"
+        },
+        {
+            "id": 2,
+            "name": "María",
+            "lastname": "Pérez",
+            "docnumber": "34123457",
+            "phone_number": "+54 9 11 2345 6790"
+        },
+        {
+            "id": 3,
+            "name": "Jorge",
+            "lastname": "Fernández",
+            "docnumber": "36123458",
+            "phone_number": "+54 9 11 2345 6791"
+        },
+        {
+            "id": 4,
+            "name": "Lucía",
+            "lastname": "Rodríguez",
+            "docnumber": "38123459",
+            "phone_number": "+54 9 11 2345 6792"
+        },
+        {
+            "id": 5,
+            "name": "Martín",
+            "lastname": "López",
+            "docnumber": "40123460",
+            "phone_number": "+54 9 11 2345 6793"
+        },
+        {
+            "id": 6,
+            "name": "Ana",
+            "lastname": "González",
+            "docnumber": "42123461",
+            "phone_number": "+54 9 11 2345 6794"
+        },
+        {
+            "id": 7,
+            "name": "Federico",
+            "lastname": "Sosa",
+            "docnumber": "44123462",
+            "phone_number": "+54 9 11 2345 6795"
+        },
+        {
+            "id": 8,
+            "name": "Sofía",
+            "lastname": "Martínez",
+            "docnumber": "46123463",
+            "phone_number": "+54 9 11 2345 6796"
+        },
+        {
+            "id": 9,
+            "name": "Leandro",
+            "lastname": "Ruiz",
+            "docnumber": "48123464",
+            "phone_number": "+54 9 11 2345 6797"
+        },
+        {
+            "id": 10,
+            "name": "Valentina",
+            "lastname": "Díaz",
+            "docnumber": "50123465",
+            "phone_number": "+54 9 11 2345 6798"
+        }
+    ],
+    "suppliers": [
+        {
+            "id": 1,
+            "name": "Santiago",
+            "lastname": "Figueroa",
+            "docnumber": "32123401",
+            "phone_number": "+54 9 11 5678 9012"
+        },
+        {
+            "id": 2,
+            "name": "Camila",
+            "lastname": "Blanco",
+            "docnumber": "34123402",
+            "phone_number": "+54 9 11 5678 9013"
+        },
+        {
+            "id": 3,
+            "name": "Alejandro",
+            "lastname": "Castro",
+            "docnumber": "36123403",
+            "phone_number": "+54 9 11 5678 9014"
+        },
+        {
+            "id": 4,
+            "name": "Florencia",
+            "lastname": "Acosta",
+            "docnumber": "38123404",
+            "phone_number": "+54 9 11 5678 9015"
+        },
+        {
+            "id": 5,
+            "name": "Maximiliano",
+            "lastname": "Molina",
+            "docnumber": "40123405",
+            "phone_number": "+54 9 11 5678 9016"
+        },
+        {
+            "id": 6,
+            "name": "Julieta",
+            "lastname": "Silva",
+            "docnumber": "42123406",
+            "phone_number": "+54 9 11 5678 9017"
+        },
+        {
+            "id": 7,
+            "name": "Agustín",
+            "lastname": "Medina",
+            "docnumber": "44123407",
+            "phone_number": "+54 9 11 5678 9018"
+        },
+        {
+            "id": 8,
+            "name": "Paula",
+            "lastname": "Herrera",
+            "docnumber": "46123408",
+            "phone_number": "+54 9 11 5678 9019"
+        },
+        {
+            "id": 9,
+            "name": "Nicolás",
+            "lastname": "Ortiz",
+            "docnumber": "48123409",
+            "phone_number": "+54 9 11 5678 9020"
+        },
+        {
+            "id": 10,
+            "name": "Laura",
+            "lastname": "Ramírez",
+            "docnumber": "50123410",
+            "phone_number": "+54 9 11 5678 9021"
+        }
     ]
 }
